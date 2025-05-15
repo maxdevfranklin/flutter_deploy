@@ -42128,7 +42128,7 @@ aD(){var s,r,q,p,o,n,m,l,k=this,j=$.aKl.h(0,k.a.c)
 k.d=j==null?k.d:j
 j=k.gkt()
 s=k.d
-s=A.ab(["tmp9i8bbq7c",B.k4,"5514e24d-6086-46a3-ace4-6a7264e5cb7c",B.Ka,"cc2cece4-3fff-4469-9964-5d543d2e28db",B.Kb],t.N,t.nD).h(0,s)
+s=A.ab(["tmp9i8bbq7c",B.k4,"b3619dad-843e-440e-8bcb-970c4c2aec70",B.Ka,"cc2cece4-3fff-4469-9964-5d543d2e28db",B.Kb],t.N,t.nD).h(0,s)
 j.a=s==null?B.k4:s
 j=$.of()
 s=k.d
@@ -88119,7 +88119,7 @@ return A.K(l.a7(),$async$$1)
 case 8:s=6
 break
 case 7:if(n.j(a,"SILENT")){l.y.sE(!1)
-k.b6(B.V,"Received SILENT event from server",null,null)}else if(n.j(a,"SPEAKING")){l.y.sE(!0)
+k.b6(B.V,"Received SILENT event from server",null,null)}else if(n.j(a,"SPEAK")){l.y.sE(!0)
 k.b6(B.V,"Received SPEAKING event from server",null,null)}else if(!B.c.by(n.k(a),"pong"))if(n.j(a,"ACK"))k.b6(B.V,"Received ACK",null,null)
 else try{k.b6(B.V,"Received  answer",null,null)
 p=t.a.a(B.a3.iX(A.bn(a),null))
